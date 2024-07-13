@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal8615&label=Profile%20views&color=0e75b6&style=flat" alt="kunal8615" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kk811464" target="blank"><img src="" alt="kk811464" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
 

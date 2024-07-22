@@ -1,5 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kunal</h1>
+<h1 align="center" style="color: orange;">Hi 👋, I'm Kunal</h1>
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal8615&label=Profile%20views&color=0e75b6&style=flat" alt="kunal8615" /> </p>

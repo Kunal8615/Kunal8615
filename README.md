@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend** & **React Js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-git-main-kunal8615s-projects.vercel.app/](https://portfolio-git-main-kunal8615s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kunal-in.netlify.app/](https://kunal-in.netlify.app/)
 
 - 💬 Ask me about **Full stack, Front-end**
 
